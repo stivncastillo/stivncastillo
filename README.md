@@ -10,6 +10,40 @@ I'm frontend developer at Elenas. Based on Armenia, Colombia 🇨🇴.
 - 🌱 I’m currently learning about testing in apps and web.
 - 💉 I'm tattoo entusiast.
 
+## Tech card
+
+```javascript
+const stiven = {
+  pronouns: "he/him/his",
+  code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "PHP"],
+  tools: [
+    "React",
+    "React Native",
+    "Next js",
+    "Vue",
+    "Redux",
+    "Node",
+    "GraphQL",
+    "Storybook",
+    "Styled-Components",
+    "Tailwindcss",
+    "Jest",
+    "Docker",
+  ],
+  techComunities: [
+    {
+      name: "GDG Cali",
+      role: "Organizer|Speaker",
+    },
+    {
+      name: "Calijs",
+      role: "Speaker",
+    },
+  ]
+}
+
+```
+
 
 ## How to reach me:
 
