@@ -29,6 +29,7 @@ const stiven = {
     "Tailwindcss",
     "Jest",
     "Docker",
+    ...more
   ],
   techComunities: [
     {
