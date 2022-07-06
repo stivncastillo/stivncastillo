@@ -4,10 +4,10 @@ I'm frontend developer at Elenas. Based on Armenia, Colombia 🇨🇴.
 
 ## A Few Quick Facts
 
-- 🔭 I’m currently working on a startup called [Elenas](https://elenas.co/)
+- 🔭 I’m not working currently
 - 👨🏼‍💻 I'm sharing content on my Digital Garden on [stiven.dev](https://stiven.dev/)
 - 🧑🏼‍🏫 I'm [GDG Cali](https://gdg.community.dev/gdg-cali/) co-organizer and spearker
-- 🌱 I’m currently learning about testing in apps and web.
+- 🌱 I’m currently learning about design patterns and frontend architecture
 - 💉 I'm tattoo entusiast.
 
 ## Tech card
