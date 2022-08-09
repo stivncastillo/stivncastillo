@@ -4,7 +4,7 @@ I'm frontend developer at Elenas. Based on Armenia, Colombia 🇨🇴.
 
 ## A Few Quick Facts
 
-- 🔭 I’m looking for job currently: https://www.linkedin.com/in/stivncastillo/
+- 🔭 I’m working on EvolveMep
 - 👨🏼‍💻 I'm sharing content on my Digital Garden on [stiven.dev](https://stiven.dev/)
 - 🧑🏼‍🏫 I'm [GDG Cali](https://gdg.community.dev/gdg-cali/) co-organizer and spearker
 - 🌱 I’m currently learning about design patterns and frontend architecture
