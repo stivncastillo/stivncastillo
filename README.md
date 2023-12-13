@@ -4,18 +4,19 @@ I'm frontend developer at Elenas. Based on Cali, Colombia 🇨🇴.
 
 ## A Few Quick Facts
 
-- 🔭 I’m working on EvolveMep
+- 🔭 I’m looking for new position.
 - 👨🏼‍💻 I'm sharing content on my Digital Garden on [stiven.dev](https://stiven.dev/)
 - 🧑🏼‍🏫 I'm [GDG Cali](https://gdg.community.dev/gdg-cali/) co-organizer and spearker
-- 🌱 I’m currently learning about design patterns and frontend architecture and backend with nodejs
+- 🌱 I’m currently learning about design patterns, frontend architecture, backend with nestjs and Figma.
 - 💉 I'm tattoo entusiast.
+- 🎙️ I'm doing stand up comedy.
 
 ## Tech card
 
 ```javascript
 const stiven = {
   pronouns: "he/him/his",
-  code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "PHP"],
+  code: ["Javascript", "Typescript", "HTML", "CSS", "Python"],
   tools: [
     "React",
     "React Native",
@@ -25,7 +26,7 @@ const stiven = {
     "Node",
     "GraphQL",
     "Storybook",
-    "Styled-Components",
+    "Nestjs",
     "Tailwindcss",
     "Jest",
     "Docker",
@@ -46,7 +47,7 @@ const stiven = {
 ```
 
 
-## How to reach me:
+## How to reach me out:
 
 <a href="https://twitter.com/stivncastillo_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/stivncastillo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
