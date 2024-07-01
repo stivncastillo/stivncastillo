@@ -1,6 +1,6 @@
 # Hi I'm [Stiven](https://stiven.dev/) 👋
 
-I'm Full-stack developer at Elenas. Based on Cali, Colombia 🇨🇴.
+I'm Front-end Engineer. Based on Cali, Colombia 🇨🇴.
 
 ## A Few Quick Facts
 
