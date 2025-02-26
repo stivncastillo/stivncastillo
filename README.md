@@ -35,11 +35,7 @@ const stiven = {
     {
       name: "GDG Cali",
       role: "Organizer|Speaker",
-    },
-    {
-      name: "Calijs",
-      role: "Speaker",
-    },
+    }
   ]
 }
 
